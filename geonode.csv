@@ -1,0 +1,23 @@
+proxy,protocol,anonymity,country,org_asn,speed,uptime,response,latency,updated
+185.198.181.140:5678,socks4,elite (HIA),ES,AS201105 Intersur Movil S.L,2ms,52%,2490ms,27ms,1 sec
+203.160.59.249:4145,socks4,elite (HIA),ID,AS24527 POP Jakarta,2ms,97%,3112ms,183ms,1 sec
+135.181.30.244:41856,socks4,elite (HIA),FI,AS24940 Hetzner Online GmbH,86ms,100%,597ms,40ms,1 sec
+46.4.252.237:9050,socks4,elite (HIA),DE,AS24940 Hetzner Online GmbH,2ms,100%,4594ms,100ms,1 sec
+162.212.156.192:10010,socks4,elite (HIA),US,AS11878 ServerCheap INC,1ms,100%,651ms,104ms,1 sec
+41.70.106.1:5678,socks4,elite (HIA),MW,AS37215 Malawi College of Accountancy - Mzuzu Campus,1ms,70%,4808ms,221ms,1 sec
+190.4.205.226:4153,socks4,elite (HIA),CL,AS16629 Telefonica Movil De Chile S.A,2ms,99%,585ms,209ms,1 sec
+104.21.6.88:80,socks4,elite (HIA),CA,AS13335 Cloudflare, Inc.,1ms,100%,1167ms,3ms,1 sec
+114.104.135.106:50071,socks4,elite (HIA),CN,AS4134 Chinanet AH,1ms,40%,612ms,215ms,1 sec
+181.204.217.194:4145,socks4,elite (HIA),CO,AS13489 Colombia Móvil,2ms,100%,1092ms,191ms,1 sec
+181.115.17.146:8080,socks4,elite (HIA),HN,AS14754 SERCOM de Honduras,2ms,100%,1889ms,154ms,1 sec
+185.215.53.193:3629,socks4,elite (HIA),AM,AS205368,1ms,100%,4905ms,71ms,1 sec
+81.70.93.54:2079,socks4,elite (HIA),CN,AS45090 Wanadoo Nederland BV,1ms,85%,1505ms,139ms,1 sec
+103.212.93.254:45639,socks4,elite (HIA),IN,AS138312 Best telnet services private limited,1ms,99%,1995ms,127ms,1 sec
+111.68.31.130:3128,socks5,elite (HIA),ID,AS55666 Gmedia ID Yogyakarta,2ms,99%,4209ms,179ms,30 sec
+43.134.167.51:443,socks5,elite (HIA),SG,AS132203,1ms,86%,75ms,151ms,30 sec
+45.56.97.239:37669,socks4,elite (HIA),US,N/A,1ms,99%,5091ms,87ms,30 sec
+103.70.204.1:59311,socks4,elite (HIA),IN,AS135712 Euron Communications Pvt. Ltd.,1ms,100%,3896ms,162ms,30 sec
+190.181.23.10:4153,socks4,elite (HIA),BO,AS26210 AXS Bolivia S. A,1ms,99%,3004ms,206ms,30 sec
+172.104.233.184:8080,socks4,elite (HIA),DE,AS63949 Linode,82ms,100%,5208ms,11ms,30 sec
+114.116.246.230:1080,socks5,elite (HIA),CN,AS55990 Huawei Public Cloud Service,1ms,34%,3391ms,156ms,30 sec
+168.227.158.25:4145,socks4,elite (HIA),BR,AS52898 Multipla Serviços Inteligentes,5ms,100%,N/A,N/A,N/A
